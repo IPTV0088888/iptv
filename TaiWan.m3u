@@ -1,24 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯无限台" tvg-logo="https://assets.livednow.com/logo/博斯無限台.png" group-title="•台湾「限制」",博斯無限一台
-https://tv.iill.top/litv/litv-longturn10
-#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯无限二台" tvg-logo="https://assets.livednow.com/logo/博斯無限二台.png" group-title="•台湾「限制」",博斯無限二台
-https://tv.iill.top/litv/litv-longturn13
-#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯网球台" tvg-logo="https://assets.livednow.com/logo/博斯網球台.png" group-title="•台湾「限制」",博斯網球台
-https://tv.iill.top/litv/litv-longturn09
-#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯运动一台" tvg-logo="https://assets.livednow.com/logo/博斯運動一台.png" group-title="•台湾「限制」",博斯運動一台
-https://tv.iill.top/litv/litv-longturn07
-#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯运动二台" tvg-logo="https://assets.livednow.com/logo/博斯運動二台.png" group-title="•台湾「限制」",博斯運動二台
-https://tv.iill.top/litv/litv-longturn08
-#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球1台" tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="•台湾「限制」",博斯高球一台
-https://tv.iill.top/litv/litv-longturn05
-#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球2台" tvg-logo="https://assets.livednow.com/logo/博斯高球二台.png" group-title="•台湾「限制」",博斯高球二台
-https://tv.iill.top/litv/litv-longturn06
-#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="•台湾「限制」",博斯魅力台
-https://tv.iill.top/litv/litv-longturn04
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="时尚运动X" tvg-logo="https://assets.livednow.com/logo/時尚運動X.png" group-title="•台湾「限制」",時尚運動X
-https://tv.iill.top/4gtv/277
-#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林体育台" tvg-logo="https://assets.livednow.com/logo/智林體育台.png" group-title="•台湾「限制」",智林體育台
-https://tv.iill.top/litv/4gtv-4gtv101
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="•台湾「限制」",TVBS
 https://tv.iill.top/litv/4gtv-4gtv073
 #EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台剧台" tvg-logo="https://assets.livednow.com/logo/TVBS-台劇台.png" group-title="•台湾「限制」",TVBS 台劇台
@@ -275,11 +255,3 @@ https://tv.iill.top/4gtv/230
 https://tv.iill.top/litv/litv-ftv16
 #EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://assets.livednow.com/logo/好消息2台.png" group-title="•台湾「限制」",好消息2台
 https://tv.iill.top/litv/litv-ftv17
-#EXTINF:-1 tvg-id="東森購物" tvg-name="东森购物一台" tvg-logo="https://assets.livednow.com/logo/東森購物.png" group-title="•台湾「限制」",東森購物一台
-https://tv.iill.top/4gtv/173
-#EXTINF:-1 tvg-id="東森購物" tvg-name="东森购物二台" tvg-logo="https://assets.livednow.com/logo/東森購物.png" group-title="•台湾「限制」",東森購物二台
-https://tv.iill.top/4gtv/174
-#EXTINF:-1 tvg-id="東森購物" tvg-name="东森购物三台" tvg-logo="https://assets.livednow.com/logo/東森購物.png" group-title="•台湾「限制」",東森購物三台
-https://tv.iill.top/4gtv/287
-#EXTINF:-1 tvg-id="東森購物" tvg-name="东森购物四台" tvg-logo="https://assets.livednow.com/logo/東森購物.png" group-title="•台湾「限制」",東森購物四台
-https://tv.iill.top/4gtv/286
