@@ -1,6 +1,4 @@
-#EXTM3U
-#EXT-X-APP APTV
-
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="[NOWTV]133爆谷台" tvg-name="[NOWTV]133爆谷台(普)" tvg-logo="https://epg.v1.mk/logo/[NOWTV]133爆谷台(普).png" group-title="Pixman「野生」",爆谷台
 https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
 #EXTINF:-1 tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="Pixman「野生」",星影台
