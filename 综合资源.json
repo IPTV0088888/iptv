@@ -3,14 +3,14 @@
     {
       "id": "e04f53d3-36c8-4406-88f9-49c7a03641c4",
       "key": "量子资源",
-      "name": "🥑┃量子┃资源",
+      "name": "量子资源",
       "api": "https://lzizy1.com/api.php/provide/vod/",
       "playUrl": "",
       "search": true,
       "group": "tvbox",
       "type": 1,
       "ext": "",
-      "categories": "国产剧,国产动漫,泰国剧,台湾剧,香港剧,欧美剧,韩国剧,日本剧,动漫,体育,剧情片,动作片,爱情片,喜剧片",
+      "categories": "",
       "isActive": true,
       "createdAt": 1780937960960,
       "updatedAt": 1780937960960
@@ -168,14 +168,14 @@
     {
       "id": "0fe2f371-1f86-43ce-8bff-c937826abc2e",
       "key": "csp_SNzy",
-      "name": "🐉┃索尼┃高清",
+      "name": "索尼高清",
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
       "search": true,
       "group": "tvbox",
       "type": 1,
       "ext": "",
-      "categories": "动作片,喜剧片,科幻片,恐怖片,爱情片,剧情片,战争片,记录片,国产剧,欧美剧,香港剧,韩国剧,台湾剧,日本剧,海外剧,泰国剧,国产动漫,日韩动漫,欧美动漫,港台动漫,海外动漫,大陆综艺,港台综艺,日韩综艺,欧美综艺",
+      "categories": "",
       "isActive": true,
       "createdAt": 1780937960960,
       "updatedAt": 1780937960960
@@ -183,14 +183,14 @@
     {
       "id": "b7f44109-d85c-415d-92e7-a27451f799fe",
       "key": "虎牙",
-      "name": "🐯虎牙采集",
+      "name": "虎牙采集",
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
       "playUrl": "",
       "search": true,
       "group": "tvbox",
       "type": 1,
       "ext": "",
-      "categories": "内地剧,动作片,科幻片,战争片,喜剧片,爱情片,恐怖片,犯罪片,剧情片,冒险片,记录片,韩剧,香港剧,台湾剧,欧美剧,日剧,马泰剧,体育赛事,综艺,动画片,中国动漫,日本动漫,欧美动漫",
+      "categories": "",
       "isActive": true,
       "createdAt": 1780937960960,
       "updatedAt": 1780937960960
@@ -198,14 +198,14 @@
     {
       "id": "095bdfc5-d4e6-4582-9d84-b3c0ca4e38a9",
       "key": "火狐",
-      "name": "🦊火狐采集",
+      "name": "火狐采集",
       "api": "https://hhzyapi.com/api.php/provide/vod/",
       "playUrl": "",
       "search": true,
       "group": "tvbox",
       "type": 1,
       "ext": "",
-      "categories": "内地剧,动作片,科幻片,战争片,喜剧片,爱情片,恐怖片,犯罪片,剧情片,冒险片,记录片,韩剧,香港剧,台湾剧,欧美剧,日剧,马泰剧,体育赛事,综艺,动画片,中国动漫,日本动漫,欧美动漫",
+      "categories": "",
       "isActive": true,
       "createdAt": 1780937960960,
       "updatedAt": 1780937960960
@@ -213,7 +213,7 @@
     {
       "id": "cafae297-b47a-4ce2-9111-06abf2afb884",
       "key": "dc03252b-735d-467e-be45-27d88ddfbd1e",
-      "name": "速播",
+      "name": "速播资源",
       "api": "http://suboziyuan.net/api.php/provide/vod/",
       "playUrl": "",
       "search": false,
@@ -258,7 +258,7 @@
     {
       "id": "6a492c29-257a-4e0d-8902-b0f3e624af94",
       "key": "百度",
-      "name": "🎏百度┃采集",
+      "name": "百度采集",
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
       "search": true,
@@ -273,7 +273,7 @@
     {
       "id": "3262fda3-d8a7-45ac-9ee4-4b8030712e3c",
       "key": "虎牙直播js",
-      "name": "🐯┃虎牙┃直播",
+      "name": "虎牙直播",
       "api": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/libs/js/drpy2.min.js",
       "playUrl": "",
       "search": false,
@@ -288,7 +288,7 @@
     {
       "id": "b6cbf755-22ee-4609-a7c6-ec9f57429e6d",
       "key": "奇优",
-      "name": " 🍩┃奇优┃影视",
+      "name": " 奇优影视",
       "api": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/libs/js/drpy2.min.js",
       "playUrl": "",
       "search": false,
@@ -303,7 +303,7 @@
     {
       "id": "6f43fea2-fd76-40e4-a968-b65f9cd81078",
       "key": "dr_iqiyi",
-      "name": "🥝┃爱奇异(官)",
+      "name": "爱奇异(官)",
       "api": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/libs/js/drpy2.min.js",
       "playUrl": "",
       "search": false,
@@ -318,7 +318,7 @@
     {
       "id": "bf918a35-80d8-4286-bd79-fdacbafc71ac",
       "key": "dr_youku",
-      "name": "🥔┃优酷(官)",
+      "name": "优酷(官)",
       "api": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/libs/js/drpy2.min.js",
       "playUrl": "",
       "search": false,
@@ -333,7 +333,7 @@
     {
       "id": "2b63e2e6-f8e4-4381-b7ca-c248ade85c51",
       "key": "dr_qq",
-      "name": "🐧┃腾讯(官)",
+      "name": "腾讯(官)",
       "api": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/libs/js/drpy2.min.js",
       "playUrl": "",
       "search": false,
@@ -348,7 +348,7 @@
     {
       "id": "7053e6e0-2adb-429e-9b77-c4da49f30e7c",
       "key": "dr_mgtv",
-      "name": "🥭┃芒果(官)",
+      "name": "芒果(官)",
       "api": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/libs/js/drpy2.min.js",
       "playUrl": "",
       "search": false,
@@ -363,7 +363,7 @@
     {
       "id": "9157ee5d-a638-4139-bcde-787c59f75ffb",
       "key": "dr_搜狗",
-      "name": "🚛┃搜狗(官)",
+      "name": "搜狗(官)",
       "api": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/libs/js/drpy2.min.js",
       "playUrl": "",
       "search": false,
@@ -378,7 +378,7 @@
     {
       "id": "d369a686-cef2-4139-ae4e-4101f9383581",
       "key": "dr_360影视",
-      "name": "📺┃360(官) ",
+      "name": "360(官) ",
       "api": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/libs/js/drpy2.min.js",
       "playUrl": "",
       "search": false,
@@ -393,7 +393,7 @@
     {
       "id": "dcee9383-349c-4c36-9579-71ba8fd0bec5",
       "key": "dr_奇珍异兽",
-      "name": "🦍┃奇珍┃异兽",
+      "name": "奇珍异兽",
       "api": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/libs/js/drpy2.min.js",
       "playUrl": "",
       "search": false,
@@ -408,7 +408,7 @@
     {
       "id": "aa20892e-43fc-4b9e-a08a-f7d0dd4b2a56",
       "key": "dr_腾云驾雾",
-      "name": "☁️┃腾云┃驾雾",
+      "name": "腾云驾雾",
       "api": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/libs/js/drpy2.min.js",
       "playUrl": "",
       "search": false,
@@ -423,7 +423,7 @@
     {
       "id": "4643c492-1120-47a5-9aa4-3036cdd50c85",
       "key": "dr_百忙无果",
-      "name": "🍋┃百忙┃无果",
+      "name": "百忙无果",
       "api": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/libs/js/drpy2.min.js",
       "playUrl": "",
       "search": false,
@@ -438,7 +438,7 @@
     {
       "id": "330bda28-860b-431d-a694-ce85cfb1260d",
       "key": "js_a8音乐",
-      "name": "🎸┃奥迪┃音乐",
+      "name": "奥迪音乐",
       "api": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/libs/js/drpy2.min.js",
       "playUrl": "",
       "search": true,
@@ -453,7 +453,7 @@
     {
       "id": "5b968cd7-2ceb-4958-a9ff-383144cc0c0c",
       "key": "dr_童趣",
-      "name": "🧗‍┃童趣┃播视",
+      "name": "童趣播视",
       "api": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/libs/js/drpy2.min.js",
       "playUrl": "",
       "search": true,
@@ -468,7 +468,7 @@
     {
       "id": "49024fda-8487-4f52-9717-a3fe2ca0dda1",
       "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
+      "name": "儿童启蒙",
       "api": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/libs/js/drpy2.min.js",
       "playUrl": "",
       "search": false,
