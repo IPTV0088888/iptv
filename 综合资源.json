@@ -19,7 +19,7 @@
       "id": "b96ac676-f6de-475b-9ecd-91e493183399",
       "key": "ede38cf7-643b-4b7f-bbe6-ec844b555e29",
       "name": "无水印资源",
-      "api": "https://api.wsyzy.net/api.php/provide/vod/",
+      "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
       "playUrl": "",
       "search": true,
       "group": "",
