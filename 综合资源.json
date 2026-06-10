@@ -375,6 +375,21 @@
       "createdAt": 1780937960960,
       "updatedAt": 1780937960960
     },
+  {
+      "id": "5b968cd7-2ceb-4958-a9ff-383144cc0c0c",
+      "key": "无水印",
+      "name": "无水印资源",
+      "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "search": true,
+      "group": "tvbox",
+      "type": 7,
+      "ext": "",
+      "categories": "",
+      "isActive": true,
+      "createdAt": 1780937960960,
+      "updatedAt": 1780937960960
+    },
     {
       "id": "49024fda-8487-4f52-9717-a3fe2ca0dda1",
       "key": "dr_兔小贝",
